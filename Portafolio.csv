@@ -1,0 +1,10 @@
+﻿Fecha de Valoración : 24/09/2024;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+Título Renta Fija;;;;;;;;;;;;;;;;
+Emisor;Especie/Generador;Nemotécnico;Fecha Emision Tit/Espec;Fecha Vencimiento Tit/Espec;NominaL Titulo;Tasa Facial/Cupon;Convencion Tasa;Curva de Valoración;;;;;;;;
+MINISTERIO DE HACIENDA Y CREDITO PUBLICO                                                                                                                                                                                                                       ;TES COP 7.75% 18/9/30              ;TFIT16180930   ;18/09/2014;18/09/2030;1,500,000,000.00;7.75;COP TF nominal, Base 365, Cupon Año vencido  ;COP CEC;;;;;;;;
+;;;;;;;;;;;;;;;;
+SWAP;;;;;;;;;;;;;;;;
+Generador;Fecha Emision;Fecha Vencimiento;Nocional vigente_Derecho;Tasa Facial_Derecho;Tasa / Spread_Derecho;Moneda_Derecho;Curva Proyeccion_Derecho;Curva Descuento_Derecho;Nocional vigente_Obligación;Tasa Facial_Oligación;Tasa Facial_Derecho;Moneda_Obligación;Curva Proyeccion_Obligación;Curva Descuento_Obligación;;
+COP TN 3M _COP IBR 3M;02/08/2019;01/08/2030;1,800,000,000.00;Tasa Nominal anual con periodicidad trimestre vencido;8.520000;COP;NA;COP IBR FX                                        ;1,800,000,000.00;IBR 3M + 3.9;Tasa Nominal anual con periodicidad trimestre vencido;COP;COP IBR FX                                        ;COP IBR FX                                        ;;
+;;;;;;;;;;;;;;;;

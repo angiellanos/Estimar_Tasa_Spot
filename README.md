@@ -1,2 +1,1 @@
-# Estimar_Tasa_Spot
-Este proyecto tiene como finalidad estimar la tasa Spot para diseñar una optimización estática de un portafolio de bonos con cupones usando media varianza de Markowitz y el modelo de Vasicek.
+# Esta rama es para un proyecto específico independiente de la rama main y Desarrollo
